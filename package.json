@@ -1,0 +1,13 @@
+{
+  "name": "twilio-npm-license-checker",
+  "version": "1.0.0",
+  "description": "Lists licenses of dependencies in a JavaScript project",
+  "main": "index.js",
+  "repository": "https://github.com/twilio-labs/twilio-npm-license-checker",
+  "author": "David Prothero",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "license-checker-rseidelsohn": "^3.1.0"
+  }
+}
