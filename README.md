@@ -18,4 +18,4 @@ From within your project directory (the project you want to release as OSS), run
 dpro-npm-license-checker
 ```
 
-It will create a file named `dependencies.csv` that you can import into a Google sheet and submit with your OSS request form.
+It will create a file named `dependencies.csv` that you can import into a Google sheet or use however you need.
