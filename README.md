@@ -19,3 +19,5 @@ dpro-npm-license-checker
 ```
 
 It will create a file named `dependencies.csv` that you can import into a Google sheet or use however you need.
+
+> Make sure you have installed all of your dependencies before running this command (e.g. `npm install` or `yarn install`). It won't be able to find the dependency licenses, otherwise.
