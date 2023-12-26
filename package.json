@@ -1,6 +1,6 @@
 {
   "name": "dpro-npm-license-checker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Lists licenses of dependencies in a JavaScript project",
   "main": "index.js",
   "repository": "https://github.com/dprothero/dpro-npm-license-checker",
